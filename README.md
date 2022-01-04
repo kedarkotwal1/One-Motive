@@ -6,7 +6,8 @@ Also developed another administration purpose app for management of NGO’s reso
 
 Play Store Link- https://play.google.com/store/apps/details?id=com.tysf1.dashboardactivity
 
-Snapshots of the application: 
+Snapshots of the application:
+
 ![image](https://user-images.githubusercontent.com/31197666/148023029-6234987f-326a-41ad-9ab6-a01fa7d93133.png)
 
 Snapshots of the admin application: 
